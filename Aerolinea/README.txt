@@ -1,0 +1,1 @@
+Simulación de venta de pasajes para una aerolínea, desarrollada en Python.
